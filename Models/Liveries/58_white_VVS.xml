@@ -3,8 +3,8 @@
     <sim>
         <model>
             <livery>
-                <name type="string">SyAAF 2786</name>
-                <texture>2786_SyAAF.png</texture>
+                <name type="string">VVS 58 white</name>
+                <texture>58_white_RuAF_2.png</texture>
             </livery>
         </model>
     </sim>
@@ -12,7 +12,7 @@
         <jsbsim>
             <fcs>
                 <dogtooth type="int">1</dogtooth>
-                <vortex-generator type="int">0</vortex-generator>
+                <vortex-generator type="int">1</vortex-generator>
                 <cfd>1</cfd>
             </fcs>
         </jsbsim>
