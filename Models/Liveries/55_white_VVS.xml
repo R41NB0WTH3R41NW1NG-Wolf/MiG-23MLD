@@ -4,7 +4,7 @@
         <model>
             <livery>
                 <name type="string">VVS 55 white</name>
-                <texture>55_white_RuAF.png</texture>
+                <texture>fuzcamo_afg.png</texture>
             </livery>
         </model>
     </sim>
